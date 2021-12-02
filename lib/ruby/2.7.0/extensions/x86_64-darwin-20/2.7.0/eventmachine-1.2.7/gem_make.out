@@ -1,0 +1,16 @@
+current directory: /Volumes/DevDisk/websites/dharma4et.github.io/lib/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/amoody/.rbenv/versions/2.7.0/bin/ruby -I /Users/amoody/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20211202-34937-18buh7e.rb extconf.rb
+creating Makefile
+
+current directory: /Volumes/DevDisk/websites/dharma4et.github.io/lib/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Volumes/DevDisk/websites/dharma4et.github.io/lib/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Volumes/DevDisk/websites/dharma4et.github.io/lib/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20211202-34937-18hj6q0

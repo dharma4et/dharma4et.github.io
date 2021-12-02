@@ -1,0 +1,16 @@
+current directory: /Volumes/DevDisk/websites/dharma4et.github.io/lib/ruby/2.7.0/gems/unf_ext-0.0.8/ext/unf_ext
+/Users/amoody/.rbenv/versions/2.7.0/bin/ruby -I /Users/amoody/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20211202-34937-rjv0jq.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Volumes/DevDisk/websites/dharma4et.github.io/lib/ruby/2.7.0/gems/unf_ext-0.0.8/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /Volumes/DevDisk/websites/dharma4et.github.io/lib/ruby/2.7.0/gems/unf_ext-0.0.8/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Volumes/DevDisk/websites/dharma4et.github.io/lib/ruby/2.7.0/gems/unf_ext-0.0.8/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20211202-34937-mdaswe
