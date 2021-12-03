@@ -35,9 +35,7 @@ twitter_username: appdharma
 facebook_username: appalachian.dharma
 
 # Build settings
-theme: minima
-minima:
-  skin: dark
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
