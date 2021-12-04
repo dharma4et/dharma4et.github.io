@@ -25,10 +25,9 @@ addressline2: Suite 2 (downstairs)
 city: Johnson City
 state: TN
 zip: 37604
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: The vision of the Appalachian Dharma & Meditation Center is to facilitate a community of Buddhist practice that fosters the integration of wisdom and compassion. Our aim, as individuals and as a community, is to cultivate insight into the nature of mind and reality and overcome ego-orientated ways of being. We are a nonsectarian Buddhist center that offers weekly programs in Zen and Western Buddhism.
+logo: 300x300.png
+logo2: admc.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: appdharma
