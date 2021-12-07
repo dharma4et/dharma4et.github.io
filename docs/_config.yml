@@ -37,6 +37,7 @@ facebook_username: appalachian.dharma
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+  - jekyll-remote-include
 
 # Exclude from processing.
 # The following items will not be processed, by default.

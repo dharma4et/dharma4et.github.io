@@ -5,4 +5,3 @@
 layout: default
 ---
 
-This is the Home page....
